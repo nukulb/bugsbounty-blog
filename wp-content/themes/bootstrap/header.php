@@ -45,14 +45,14 @@ get_header(); ?>
                     <span class="icon-bar"></span>
                 </a>
                 <a class="brand" href="/">
-                    <h1>Bugs Bounty Blog</h1>
+                    <h1>Bugs Bounty</h1>
                 </a>
                 <div class="nav-collapse">
                     <ul class="nav pull-right">
                     <li><a href="http://bugsbounty.com">Home</a></li>
                     <li><a href="about.html">About</a></li>
                     <li class="divider-vertical"></li>
-                    <li><a href="/tester.html">Not a Developer?</a></li></ul>
+                    <li><a href="http://bugsbounty.com">Sign up</a></li></ul>
                 </div>
             </div>
         </div>

@@ -33,11 +33,11 @@ textarea {
 .brand {
   float: left;
 }
-.brand h1 {
-  color: #fff;
-  letter-spacing: 16px;
+.brand h1 { 
+  color: #fff; 
   font-weight: normal;
   text-shadow: 1px 1px #ccc;
+  font-variant: small-caps;
 }
 .brand img {
   max-height: 80px;
@@ -199,6 +199,8 @@ textarea {
 .hero-unit {
   text-align: center;
   border: 1px solid black;
+  padding: 10px;
+  margin-bottom: 10px
 }
 .platform-picker {
   margin-bottom: 10px;
@@ -386,4 +388,7 @@ html[xmlns] .clearfix {
 }
 .button-picker li .windows.selected span {
   background-position: -200px -300px;
+}
+.post-metadata {
+    font-size: 8px;
 }

@@ -61,7 +61,7 @@ hr.soften {
 }
 .jumbotron h1 {
   margin-bottom: 9px;
-  font-size: 81px;
+  font-size: 22px;
   letter-spacing: -1px;
   line-height: 1;
 }
@@ -84,8 +84,7 @@ hr.soften {
 
 /* Masthead (docs home) */
 .masthead {
-  padding-top: 36px;
-  margin-bottom: 72px;
+  padding-top: 10px;
 }
 .masthead h1,
 .masthead p {
@@ -97,11 +96,13 @@ hr.soften {
 .masthead p {
   margin-left: 5%;
   margin-right: 5%;
-  font-size: 30px;
-  line-height: 36px;
+  font-size: 16px;
+  line-height: 16px;
 }
-
-
+.masthead .post-metadata {
+  font-size: 12px;
+  line-height: 12px;
+}
 /* Specific jumbotrons
 ------------------------- */
 /* supporting docs pages */
