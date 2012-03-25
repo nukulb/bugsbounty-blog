@@ -109,6 +109,13 @@ textarea {
 #features {
   padding-bottom: 4%;
 }
+.singlepost {
+  background-color: whiteSmoke;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  border-radius: 6px;
+  padding: 10px;
+}
 .master-mind {
   background-color: whiteSmoke;
   padding-top: 4%;
@@ -202,7 +209,7 @@ textarea {
   text-align: center;
   border: 1px solid black;
   padding: 10px;
-  margin-bottom: 10px
+  margin-bottom: 10px;
 }
 .platform-picker {
   margin-bottom: 10px;

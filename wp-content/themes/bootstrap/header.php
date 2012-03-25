@@ -50,6 +50,7 @@ get_header(); ?>
                 <div class="nav-collapse">
                     <ul class="nav pull-right">
                     <li><a href="http://bugsbounty.com">Home</a></li>
+                    <li><a href="http://blog.bugsbounty.com">Blog</a></li>
                     <li><a href="about.html">About</a></li>
                     <li class="divider-vertical"></li>
                     <li><a href="http://bugsbounty.com">Sign up</a></li></ul>
