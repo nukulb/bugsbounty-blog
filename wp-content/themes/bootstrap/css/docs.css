@@ -1,4 +1,4 @@
-/* Add additional stylesheets below
+/                                                                       * Add additional stylesheets below
 -------------------------------------------------- */
 /*
   Bootstrap's documentation styles
@@ -61,7 +61,7 @@ hr.soften {
 }
 .jumbotron h1 {
   margin-bottom: 9px;
-  font-size: 22px;
+  font-size: 30px;
   letter-spacing: -1px;
   line-height: 1;
 }
@@ -653,7 +653,7 @@ form.well {
     margin-right: 0;
   }
   .jumbotron h1 {
-    font-size: 45px;
+    font-size: 22px;
     margin-right: 0;
   }
   .jumbotron p {
@@ -783,7 +783,7 @@ form.well {
 
   /* Scale down the jumbotron content */
   .jumbotron h1 {
-    font-size: 54px;
+    font-size: 22px;
   }
   .jumbotron p {
     margin-right: 0;
@@ -802,7 +802,7 @@ form.well {
 
   /* Scale down the jumbotron content */
   .jumbotron h1 {
-    font-size: 72px;
+    font-size: 22px;
   }
 
 }

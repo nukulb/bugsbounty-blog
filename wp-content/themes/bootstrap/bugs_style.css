@@ -45,7 +45,9 @@ textarea {
 .nav a {
   font-size: 20px;
 }
-.heart {
+.navbar-fixed-top{
+  font-variant: small-caps;
+}.heart {
   max-height: 1.3em;
 }
 .carousel {
