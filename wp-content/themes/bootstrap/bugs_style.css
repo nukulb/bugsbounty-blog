@@ -109,12 +109,16 @@ textarea {
 #features {
   padding-bottom: 4%;
 }
+.breadcrumb {
+  border: 1px solid black;
+}
 .singlepost {
   background-color: whiteSmoke;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;
   border-radius: 6px;
   padding: 10px;
+  border: 1px solid black;
 }
 .master-mind {
   background-color: whiteSmoke;
