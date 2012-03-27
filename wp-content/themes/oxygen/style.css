@@ -970,7 +970,7 @@ input[type="submit"]:hover { cursor: pointer }
 .byline-cat a:hover { color: #fff; }
 .read-more, .read-more:visited {
 	position: absolute;
-	top: 117px;
+	top: 75px;
 	right: 0;
 	z-index: 10;
 	color: #fff;

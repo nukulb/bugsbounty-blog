@@ -53,11 +53,11 @@ get_header(); // Loads the header.php template. ?>
 
 							<?php echo apply_atomic_shortcode( 'byline', '<div class="byline-cat">' . __( '[entry-terms taxonomy="category" before=""]', hybrid_get_parent_textdomain() ) . '</div>' ); ?>
 							
-							<?php if ( current_theme_supports( 'get-the-image' ) ) {
+							<!--?php if ( current_theme_supports( 'get-the-image' ) ) {
 											
 								get_the_image( array( 'meta_key' => 'Thumbnail', 'size' => 'archive-thumbnail', 'image_class' => 'featured', 'width' => "100%", 'height' => 60, 'default_image' => get_template_directory_uri() . '/images/archive-thumbnail-placeholder.gif' ) );							
 									
-							} ?>
+							} ?-->
 	
 							<div class="entry-summary">
 								
